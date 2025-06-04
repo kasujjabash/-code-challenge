@@ -60,13 +60,3 @@ while (count < 5) {
   multiple++;
 }
 
-// first 5 multiples of 3
-// let number = 1;
-// let count = 0; //tracks how many numbers are being printed
-// while (count < 5) {
-//   if (number % 3 === 0) {
-//     console.log(number);
-//     count++;
-//   }
-//   number++;
-// }
