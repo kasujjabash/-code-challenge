@@ -18,3 +18,10 @@ function sortItems(items){
 
 let sumArray = [3.0, 'a' , 7, 'x' , 20, 'd' , 4, 'f', 8]
 console.log(sortItems(sumArray))
+
+
+let nums = [1,2,3,1]
+let count = 0
+for(integer = 0; integer<nums.length; integer++){
+    if(nums[integer] === )
+}

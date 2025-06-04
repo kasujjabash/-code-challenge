@@ -60,3 +60,8 @@ while (count < 5) {
   multiple++;
 }
 
+//? To update a repo 
+// git init
+// git add .
+// git commit -m "TYPE ANY MESSAGE"
+//git push
